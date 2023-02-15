@@ -1,6 +1,7 @@
 ## For the Machine Learning workshop by [Dr. Jodeiri](https://ir.linkedin.com/in/jodeiri)
 
 #### [CSV Source](https://www.kaggle.com/code/thewiredbear/tutorial-svm-with-breast-cancer-dataset/data)
+#### All details in the [notebook](https://github.com/RasaKh/AdvFacTraining/blob/main/SVMs-Seaborn/Breast-Cancer-Notebook-1.ipynb)'s comments
 #### کل توضیحات توی کامنت های نوت بوک هست 
 
 
